@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/epic-swype/static/css/main.fa45e68f.chunk.css",
-    "main.js": "/epic-swype/static/js/main.cbebe051.chunk.js",
-    "main.js.map": "/epic-swype/static/js/main.cbebe051.chunk.js.map",
+    "main.css": "/epic-swype/static/css/main.2543a999.chunk.css",
+    "main.js": "/epic-swype/static/js/main.4a9e0068.chunk.js",
+    "main.js.map": "/epic-swype/static/js/main.4a9e0068.chunk.js.map",
     "runtime-main.js": "/epic-swype/static/js/runtime-main.dd4c8a4e.js",
     "runtime-main.js.map": "/epic-swype/static/js/runtime-main.dd4c8a4e.js.map",
-    "static/js/2.8bfb6323.chunk.js": "/epic-swype/static/js/2.8bfb6323.chunk.js",
-    "static/js/2.8bfb6323.chunk.js.map": "/epic-swype/static/js/2.8bfb6323.chunk.js.map",
+    "static/js/2.3bb3c30f.chunk.js": "/epic-swype/static/js/2.3bb3c30f.chunk.js",
+    "static/js/2.3bb3c30f.chunk.js.map": "/epic-swype/static/js/2.3bb3c30f.chunk.js.map",
     "static/js/3.b1ebc3f5.chunk.js": "/epic-swype/static/js/3.b1ebc3f5.chunk.js",
     "static/js/3.b1ebc3f5.chunk.js.map": "/epic-swype/static/js/3.b1ebc3f5.chunk.js.map",
     "index.html": "/epic-swype/index.html",
-    "static/css/main.fa45e68f.chunk.css.map": "/epic-swype/static/css/main.fa45e68f.chunk.css.map",
-    "static/js/2.8bfb6323.chunk.js.LICENSE.txt": "/epic-swype/static/js/2.8bfb6323.chunk.js.LICENSE.txt"
+    "static/css/main.2543a999.chunk.css.map": "/epic-swype/static/css/main.2543a999.chunk.css.map",
+    "static/js/2.3bb3c30f.chunk.js.LICENSE.txt": "/epic-swype/static/js/2.3bb3c30f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dd4c8a4e.js",
-    "static/js/2.8bfb6323.chunk.js",
-    "static/css/main.fa45e68f.chunk.css",
-    "static/js/main.cbebe051.chunk.js"
+    "static/js/2.3bb3c30f.chunk.js",
+    "static/css/main.2543a999.chunk.css",
+    "static/js/main.4a9e0068.chunk.js"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/epic-swype/static/css/main.36355ab7.chunk.css",
-    "main.js": "/epic-swype/static/js/main.a082defb.chunk.js",
-    "main.js.map": "/epic-swype/static/js/main.a082defb.chunk.js.map",
+    "main.js": "/epic-swype/static/js/main.92d8e2e5.chunk.js",
+    "main.js.map": "/epic-swype/static/js/main.92d8e2e5.chunk.js.map",
     "runtime-main.js": "/epic-swype/static/js/runtime-main.0b91f9eb.js",
     "runtime-main.js.map": "/epic-swype/static/js/runtime-main.0b91f9eb.js.map",
     "static/js/2.96953ed8.chunk.js": "/epic-swype/static/js/2.96953ed8.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0b91f9eb.js",
     "static/js/2.96953ed8.chunk.js",
     "static/css/main.36355ab7.chunk.css",
-    "static/js/main.a082defb.chunk.js"
+    "static/js/main.92d8e2e5.chunk.js"
   ]
 }
